@@ -219,10 +219,13 @@ Graphs
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Praniga16&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://streak-stats.demolab.com?user=Praniga16&theme=tokyonight&hide_border=true&mode=daily"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
