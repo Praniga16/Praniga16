@@ -219,14 +219,17 @@ Graphs
 
 ---
 
-# 🔥 GitHub Contribution Streak
+# 📊 GitHub Journey
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Praniga16&theme=tokyonight&hide_border=true&mode=daily"
-    alt="GitHub Contribution Streak"
-  />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sanushia10&show_icons=true&theme=tokyonight&hide_border=true">
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanushia10&theme=tokyonight&hide_border=true">
+
+</div>
 
 ---
 
