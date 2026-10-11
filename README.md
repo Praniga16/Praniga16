@@ -1,379 +1,198 @@
-<!-- INTRODUCTION -->
+ <div align="center">
 
-<h1 align="center">Hi, I'm Praniga B</h1>
+# Hello, I am Praniga!
 
-<h3 align="center">AI & Data Science Engineering Student</h3>
+### Artificial Intelligence & Data Science Engineering Student
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=C41620&center=true&vCenter=true&width=550&lines=Artificial+Intelligence+%26+Machine+Learning;Computer+Vision+%26+Data+Science;Python+%26+Web+Development;Building+Ideas+into+Applications" alt="Animated introduction" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=1000&color=C41620&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Exploring+Intelligent+Applications;Building+Full-Stack+Projects;Learning+and+Growing+Every+Day" alt="Introduction" />
 
-<p align="center">
-  <a href="https://github.com/Praniga16">GitHub</a> &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/praniga-b-935995338/">LinkedIn</a>
-</p>
+<a href="https://github.com/Praniga16"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/praniga-b-935995338/"><img src="https://img.shields.io/badge/LinkedIn-E8A5AB?style=for-the-badge&logo=linkedin&logoColor=5A0106" /></a>
+
+</div>
 
 ---
 
-<h2>About Me</h2>
+## About Me
 
-I'm Praniga, an Artificial Intelligence and Data Science engineering student who enjoys exploring new technologies and building practical applications.
+I'm Praniga, an Artificial Intelligence and Data Science Engineering student who enjoys learning new technologies and building practical applications.
 
-I'm interested in how AI can solve real-world problems and how thoughtful software design can make everyday tasks easier.
+I'm interested in exploring how artificial intelligence can solve real-world problems and how software can make everyday tasks easier.
 
 - Artificial Intelligence and Machine Learning
-- Computer Vision and Image Classification
-- Python Programming and Data Science
+- Data Science and Intelligent Applications
+- Python and Java Programming
 - Full-Stack Web Development
-- Building practical projects through experimentation
+- Problem-Solving and Logical Thinking
+- Learning through hands-on projects
 
-I believe in learning step by step, experimenting with ideas, and improving with every project.
-
----
-
-<h2>My Interests</h2>
-
-<p>
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-181717?style=flat-square&logo=openai&logoColor=C41620" />
-  <img src="https://img.shields.io/badge/Computer_Vision-181717?style=flat-square&logo=opencv&logoColor=C41620" />
-  <img src="https://img.shields.io/badge/Machine_Learning-181717?style=flat-square&logo=scikitlearn&logoColor=C41620" />
-  <img src="https://img.shields.io/badge/Data_Science-181717?style=flat-square&logo=python&logoColor=C41620" />
-  <img src="https://img.shields.io/badge/UI%2FUX_Design-181717?style=flat-square&logo=figma&logoColor=C41620" />
-</p>
+I believe in learning step by step, experimenting with new ideas, and improving with every project I build.
 
 ---
 
-<h2>Technical Skills</h2>
+## My Interests
 
-<h4>Programming Languages</h4>
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js&theme=dark" alt="Programming languages" />
-</p>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-FCE7F3?style=for-the-badge&logo=probot&logoColor=9D174D" />
+<img src="https://img.shields.io/badge/Machine%20Learning-F3E8FF?style=for-the-badge&logo=scikitlearn&logoColor=7E22CE" />
+<img src="https://img.shields.io/badge/Data%20Science-E0E7FF?style=for-the-badge&logo=python&logoColor=3730A3" />
+<img src="https://img.shields.io/badge/Web%20Development-FCE7F3?style=for-the-badge&logo=html5&logoColor=9D174D" />
+<img src="https://img.shields.io/badge/Full--Stack%20Development-F3E8FF?style=for-the-badge&logo=react&logoColor=7E22CE" />
 
-<h4>AI, Machine Learning & Computer Vision</h4>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" alt="AI and computer vision tools" />
-</p>
-
-<h4>Web Development</h4>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=django,flask,react,fastapi&theme=dark" alt="Web development tools" />
-</p>
-
-<h4>Databases, Design & Tools</h4>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,figma,git,github,vscode&theme=dark" alt="Databases and tools" />
-</p>
+</div>
 
 ---
 
-<h2>Featured Projects</h2>
+## Technical Skills
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>EcoSort AI</h3>
-      <p>An AI-powered waste segregation system using computer vision and MobileNetV2 transfer learning.</p>
-      <p><strong>Features</strong></p>
-      <ul>
-        <li>Six-class waste classification</li>
-        <li>Image upload and camera-based analysis</li>
-        <li>Prediction confidence and disposal guidance</li>
-        <li>Flask web interface</li>
-      </ul>
-      <p><sub>Python · TensorFlow · Keras · Flask</sub></p>
-      <a href="https://github.com/Praniga16/Ecosort">View Repository ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Secure Vault</h3>
-      <p>A Django-based application for organizing credentials and managing password-related information.</p>
-      <p><strong>Features</strong></p>
-      <ul>
-        <li>Password management</li>
-        <li>Search and favorites</li>
-        <li>Secure notes</li>
-        <li>Dashboard interface</li>
-      </ul>
-      <p><sub>Python · Django · SQLite · JavaScript</sub></p>
-      <a href="https://github.com/Praniga16/Secure-vault">View Repository ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Personal To-Do</h3>
-      <p>A task-management application designed to help users organize daily activities and track their work.</p>
-      <p><sub>Python · Flask · HTML · CSS · JavaScript</sub></p>
-      <a href="https://github.com/Praniga16/personal-to-do">View Repository ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Movie Recommendation System</h3>
-      <p>A machine learning project exploring personalized movie recommendations.</p>
-      <p><sub>Python · Machine Learning</sub></p>
-      <p><em>Project details and repository link to be added when available.</em></p>
-    </td>
-  </tr>
-</table>
+### Programming Languages
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c&theme=light" />
+</div>
+
+### AI, Machine Learning & Data Science
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=light" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Machine%20Learning-C41620?style=flat-square" />
+<img src="https://img.shields.io/badge/Deep%20Learning-B794F4?style=flat-square" />
+<img src="https://img.shields.io/badge/Generative%20AI-3B82F6?style=flat-square" />
+</div>
+
+### Web Development
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,django,flask&theme=light" />
+</div>
+
+### Database, Tools & Platforms
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,vscode&theme=light" />
+</div>
 
 ---
 
-<h2>Currently Learning</h2>
+## Featured Projects
 
-- Machine Learning and model evaluation
-- Deep Learning and neural networks
-- Computer Vision
-- Generative AI and intelligent applications
+### EcoSort AI — Waste Segregation System
+
+<a href="https://github.com/Praniga16/Ecosort"><img src="https://img.shields.io/badge/View%20Repository-FCE7F3?style=for-the-badge&logo=github&logoColor=9D174D" /></a>
+
+An AI-powered waste classification application designed to identify different types of waste using image classification and transfer learning.
+
+**Features**
+- Classifies cardboard, glass, metal, paper, plastic, and trash
+- Supports image upload and live camera input
+- Displays the predicted waste category and confidence
+- Provides a web interface for waste classification
+
+**Technologies:** Python, TensorFlow, MobileNetV2, CNN, Flask
+
+### SecurePass — Password Manager
+
+<a href="https://github.com/Praniga16/Secure-vault"><img src="https://img.shields.io/badge/View%20Repository-F3E8FF?style=for-the-badge&logo=github&logoColor=7E22CE" /></a>
+
+A password management application designed to help users organize and manage their credentials through a convenient interface.
+
+**Features**
+- Password storage and organization
+- Password generator
+- Show and hide password options
+- Search, filtering, and favorites
+
+**Technologies:** Python, Django, PostgreSQL
+
+### Smart To-Do List
+
+<a href="https://github.com/Praniga16/personal-to-do"><img src="https://img.shields.io/badge/View%20Repository-F3F4F6?style=for-the-badge&logo=github&logoColor=374151" /></a>
+
+A task-management application that helps users organize daily activities and track their progress.
+
+**Features**
+- Add and manage tasks
+- Set priorities and deadlines
+- Track task completion
+- Organize daily activities efficiently
+
+**Technologies:** HTML, CSS, JavaScript, Python, Flask, SQLite
+
+### Personal Portfolio
+
+A personal portfolio website showcasing my skills, projects, and learning journey.
+
+**Focus**
+- Professional personal branding
+- Animated and interactive user interface
+- Responsive design
+- Project showcase
+
+**Technologies:** React, JavaScript, CSS
+
+---
+
+## Currently Learning
+
+- Machine Learning and Deep Learning
+- Generative AI
 - Data Structures and Algorithms
+- Django and FastAPI
 - Full-Stack Development
+- Building intelligent applications
 
 ---
 
-<h2>My Learning Journey</h2>
+## My Learning Journey
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <strong>2024</strong><br/>
-      Started programming
-    </td>
-    <td align="center" width="25%">
-      <strong>2025</strong><br/>
-      Explored Python and Data Science
-    </td>
-    <td align="center" width="25%">
-      <strong>2026</strong><br/>
-      Focused on AI and Computer Vision
-    </td>
-    <td align="center" width="25%">
-      <strong>Next</strong><br/>
-      Build more intelligent applications
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+**2025** — Explored programming, AI concepts, and cloud-based generative AI learning
+
+**2026** — Focused on practical projects, web development, and intelligent applications
+
+**Next** — Strengthen my AI engineering skills and build more useful real-world projects
+
+</div>
 
 ---
 
-<h2 align="center">GitHub Statistics</h2>
+## GitHub Statistics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Praniga16&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&title_color=C41620&icon_color=C41620&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praniga16&layout=compact&hide_border=true&bg_color=0D1117&title_color=C41620&text_color=C9D1D9" alt="Most-used languages" />
-</p>
+<div align="center">
 
-<h2 align="center">Contribution Streak</h2>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Praniga16&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=C41620&icon_color=3B82F6&text_color=4B5563" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Praniga16&theme=tokyonight&hide_border=true&background=0D1117&ring=C41620&fire=C41620&currStreakLabel=C41620&sideLabels=C9D1D9&dates=8B949E" width="95%" alt="GitHub contribution streak" />
-</p>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praniga16&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=C41620&text_color=4B5563" />
 
-<h2 align="center">Contribution Activity</h2>
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praniga16&bg_color=0D1117&color=C9D1D9&line=C41620&point=F5F0EB&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
-</p>
+<img width="70%" src="https://streak-stats.demolab.com?user=Praniga16&hide_border=true&background=FFFFFF&ring=C41620&fire=3B82F6&currStreakLabel=C41620&sideLabels=6B7280&dates=9CA3AF&currStreakNum=4B5563&sideNums=4B5563" />
+
+</div>
 
 ---
 
-<!-- INTRODUCTION -->
+## A Little About Me
 
-<h1 align="center">Hi, I'm Praniga B</h1>
-
-<h3 align="center">AI & Data Science Engineering Student</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=C41620&center=true&vCenter=true&width=550&lines=Artificial+Intelligence+%26+Machine+Learning;Computer+Vision+%26+Data+Science;Python+%26+Web+Development;Building+Ideas+into+Applications" alt="Animated introduction" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Praniga16">GitHub</a> &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/praniga-b-935995338/">LinkedIn</a>
-</p>
-
----
-
-<h2>About Me</h2>
-
-I'm Praniga, an Artificial Intelligence and Data Science engineering student who enjoys exploring new technologies and building practical applications.
-
-I'm interested in how AI can solve real-world problems and how thoughtful software design can make everyday tasks easier.
-
-- Artificial Intelligence and Machine Learning
-- Computer Vision and Image Classification
-- Python Programming and Data Science
-- Full-Stack Web Development
-- Building practical projects through experimentation
-
-I believe in learning step by step, experimenting with ideas, and improving with every project.
-
----
-
-<h2>My Interests</h2>
-
-<p>
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-181717?style=flat-square&logo=openai&logoColor=C41620" />
-  <img src="https://img.shields.io/badge/Computer_Vision-181717?style=flat-square&logo=opencv&logoColor=C41620" />
-  <img src="https://img.shields.io/badge/Machine_Learning-181717?style=flat-square&logo=scikitlearn&logoColor=C41620" />
-  <img src="https://img.shields.io/badge/Data_Science-181717?style=flat-square&logo=python&logoColor=C41620" />
-  <img src="https://img.shields.io/badge/UI%2FUX_Design-181717?style=flat-square&logo=figma&logoColor=C41620" />
-</p>
-
----
-
-<h2>Technical Skills</h2>
-
-<h4>Programming Languages</h4>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js&theme=dark" alt="Programming languages" />
-</p>
-
-<h4>AI, Machine Learning & Computer Vision</h4>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" alt="AI and computer vision tools" />
-</p>
-
-<h4>Web Development</h4>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=django,flask,react,fastapi&theme=dark" alt="Web development tools" />
-</p>
-
-<h4>Databases, Design & Tools</h4>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,figma,git,github,vscode&theme=dark" alt="Databases and tools" />
-</p>
-
----
-
-<h2>Featured Projects</h2>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>EcoSort AI</h3>
-      <p>An AI-powered waste segregation system using computer vision and MobileNetV2 transfer learning.</p>
-      <p><strong>Features</strong></p>
-      <ul>
-        <li>Six-class waste classification</li>
-        <li>Image upload and camera-based analysis</li>
-        <li>Prediction confidence and disposal guidance</li>
-        <li>Flask web interface</li>
-      </ul>
-      <p><sub>Python · TensorFlow · Keras · Flask</sub></p>
-      <a href="https://github.com/Praniga16/Ecosort">View Repository ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Secure Vault</h3>
-      <p>A Django-based application for organizing credentials and managing password-related information.</p>
-      <p><strong>Features</strong></p>
-      <ul>
-        <li>Password management</li>
-        <li>Search and favorites</li>
-        <li>Secure notes</li>
-        <li>Dashboard interface</li>
-      </ul>
-      <p><sub>Python · Django · SQLite · JavaScript</sub></p>
-      <a href="https://github.com/Praniga16/Secure-vault">View Repository ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Personal To-Do</h3>
-      <p>A task-management application designed to help users organize daily activities and track their work.</p>
-      <p><sub>Python · Flask · HTML · CSS · JavaScript</sub></p>
-      <a href="https://github.com/Praniga16/personal-to-do">View Repository ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Movie Recommendation System</h3>
-      <p>A machine learning project exploring personalized movie recommendations.</p>
-      <p><sub>Python · Machine Learning</sub></p>
-      <p><em>Project details and repository link to be added when available.</em></p>
-    </td>
-  </tr>
-</table>
-
----
-
-<h2>Currently Learning</h2>
-
-- Machine Learning and model evaluation
-- Deep Learning and neural networks
-- Computer Vision
-- Generative AI and intelligent applications
-- Data Structures and Algorithms
-- Full-Stack Development
-
----
-
-<h2>My Learning Journey</h2>
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <strong>2024</strong><br/>
-      Started programming
-    </td>
-    <td align="center" width="25%">
-      <strong>2025</strong><br/>
-      Explored Python and Data Science
-    </td>
-    <td align="center" width="25%">
-      <strong>2026</strong><br/>
-      Focused on AI and Computer Vision
-    </td>
-    <td align="center" width="25%">
-      <strong>Next</strong><br/>
-      Build more intelligent applications
-    </td>
-  </tr>
-</table>
-
----
-
-<h2 align="center">GitHub Statistics</h2>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Praniga16&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&title_color=C41620&icon_color=C41620&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praniga16&layout=compact&hide_border=true&bg_color=0D1117&title_color=C41620&text_color=C9D1D9" alt="Most-used languages" />
-</p>
-
-<h2 align="center">Contribution Streak</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Praniga16&theme=tokyonight&hide_border=true&background=0D1117&ring=C41620&fire=C41620&currStreakLabel=C41620&sideLabels=C9D1D9&dates=8B949E" width="95%" alt="GitHub contribution streak" />
-</p>
-
-<h2 align="center">Contribution Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praniga16&bg_color=0D1117&color=C9D1D9&line=C41620&point=F5F0EB&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
-</p>
-
----
-
-<h2>A Little About Me</h2>
-
-- I love cats.
+- My favourite colour is **blue** — I love its calm and refreshing feel.
+- I love cats and enjoy their playful personalities.
 - I enjoy exploring new ideas and technologies.
-- I like turning ideas into practical projects.
-- I believe mistakes are part of learning.
-- I enjoy improving things through experimentation.
+- I like turning my ideas into practical projects.
+- I believe mistakes are opportunities to learn and improve.
+- I enjoy experimenting, solving problems, and learning something new every day.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=C41620&center=true&vCenter=true&width=500&lines=Learn+something+new.;Build+something+meaningful.;Keep+improving." alt="Animated closing message" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Praniga16">Portfolio & GitHub</a>
-  &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/praniga-b-935995338/">LinkedIn</a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Stay+curious.;Keep+learning.;Build+something+meaningful." alt="Personal motto" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=97030C&height=100&section=footer" width="100%" alt="" />
-</p>
+### Learn something new. Build something meaningful.
+
+*Thanks for visiting my GitHub profile!*
+
+<a href="https://github.com/Praniga16">GitHub</a> ·
+<a href="https://www.linkedin.com/in/praniga-b-935995338/">LinkedIn</a>
+
+</div>
