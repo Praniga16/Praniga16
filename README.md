@@ -1,8 +1,8 @@
  <div align="center">
 
-# Hi, I'm Praniga B 👋
+# Praniga B.
 
-### AI & Data Science Engineering Student | Aspiring AI Engineer
+### Artificial Intelligence & Data Science Engineering Student
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=1000&color=C41620&center=true&vCenter=true&width=600&lines=Exploring+AI+%26+Machine+Learning;Building+Intelligent+Applications;Developing+Full-Stack+Projects;Learning+by+Building+and+Experimenting" alt="Introduction" />
 
@@ -13,21 +13,21 @@
 
 ---
 
-## 👩‍💻 About Me
+## <img src="https://img.icons8.com/ios-filled/50/9D174D/user-male-circle.png" width="24" alt="" /> About Me
 
-I'm an **Artificial Intelligence and Data Science Engineering student** passionate about technology, problem-solving, and building practical applications.
+I'm an Artificial Intelligence and Data Science Engineering student passionate about technology, problem-solving, and building practical applications.
 
-I enjoy exploring how AI can address real-world challenges while developing software that makes everyday tasks simpler and more efficient. My goal is to grow into an **AI Engineer** by combining strong programming fundamentals with hands-on project experience.
+I enjoy exploring how AI can address real-world challenges while developing software that makes everyday tasks simpler and more efficient. My goal is to become an **AI Engineer** by combining strong programming fundamentals with hands-on project experience.
 
-- 🤖 Exploring Artificial Intelligence, Machine Learning, and Generative AI
-- 🧠 Practicing Python, Java, and Data Structures & Algorithms
-- 🌐 Building web applications and full-stack projects
-- 🔍 Improving my logical thinking and problem-solving skills
-- 📚 Learning new technologies through experimentation and projects
+- Artificial Intelligence, Machine Learning, and Generative AI
+- Python, Java, and Data Structures & Algorithms
+- Web applications and full-stack development
+- Logical thinking and problem-solving
+- Hands-on learning through practical projects
 
 ---
 
-## 💡 Areas of Interest
+## <img src="https://img.icons8.com/ios-filled/50/9D174D/brain.png" width="24" alt="" /> Areas of Interest
 
 <div align="center">
 
@@ -41,7 +41,7 @@ I enjoy exploring how AI can address real-world challenges while developing soft
 
 ---
 
-## 🛠️ Technical Skills
+## <img src="https://img.icons8.com/ios-filled/50/9D174D/code.png" width="24" alt="" /> Technical Skills
 
 **Programming Languages**
 
@@ -73,9 +73,9 @@ I enjoy exploring how AI can address real-world challenges while developing soft
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://img.icons8.com/ios-filled/50/9D174D/folder-invoices.png" width="24" alt="" /> Featured Projects
 
-### ♻️ EcoSort AI — AI-Powered Waste Segregation
+### EcoSort AI — Waste Segregation System
 
 <a href="https://github.com/Praniga16/Ecosort"><img src="https://img.shields.io/badge/View%20Project-FCE7F3?style=for-the-badge&logo=github&logoColor=9D174D" alt="View EcoSort AI repository" /></a>
 
@@ -86,9 +86,9 @@ An image-classification application that identifies waste categories using deep 
 - Displays predicted categories and confidence information
 - Provides disposal guidance through a web interface
 
-**Tech stack:** Python · TensorFlow · MobileNetV2 · CNN · Flask
+**Technologies:** Python, TensorFlow, MobileNetV2, CNN, Flask
 
-### 🔐 SecurePass — Password Manager
+### SecurePass — Password Manager
 
 <a href="https://github.com/Praniga16/Secure-vault"><img src="https://img.shields.io/badge/View%20Project-F3E8FF?style=for-the-badge&logo=github&logoColor=7E22CE" alt="View SecurePass repository" /></a>
 
@@ -99,9 +99,9 @@ A password-management application designed to help users organize and manage the
 - Show/hide password functionality
 - Search, filtering, and favorites
 
-**Tech stack:** Python · Django · PostgreSQL
+**Technologies:** Python, Django, PostgreSQL
 
-### ✅ Smart To-Do List — Task Management Application
+### Smart To-Do List — Task Management Application
 
 <a href="https://github.com/Praniga16/personal-to-do"><img src="https://img.shields.io/badge/View%20Project-E0E7FF?style=for-the-badge&logo=github&logoColor=3730A3" alt="View Smart To-Do List repository" /></a>
 
@@ -112,27 +112,27 @@ A task-management application that helps users organize daily activities, priori
 - Track task completion
 - Organize daily activities efficiently
 
-**Tech stack:** HTML · CSS · JavaScript · Python · Flask · SQLite
+**Technologies:** HTML, CSS, JavaScript, Python, Flask, SQLite
 
-### 🌐 Personal Portfolio
+### Personal Portfolio
 
 A portfolio website showcasing my technical skills, projects, and development journey.
 
 - Responsive interface and modern design
 - Interactive elements and animations
-- Project showcase and professional profile
+- Professional profile and project showcase
 
-**Tech stack:** React · JavaScript · CSS · Vite
+**Technologies:** React, JavaScript, CSS, Vite
 
 ---
 
-## 📜 Certifications
+## <img src="https://img.icons8.com/ios-filled/50/9D174D/certificate.png" width="24" alt="" /> Certifications
 
 - **Oracle Cloud Infrastructure Generative AI Professional** — Oracle, completed October 2025
 
 ---
 
-## 📚 Currently Learning
+## <img src="https://img.icons8.com/ios-filled/50/9D174D/book.png" width="24" alt="" /> Currently Learning
 
 - Machine Learning and Deep Learning
 - Generative AI and intelligent applications
@@ -142,7 +142,7 @@ A portfolio website showcasing my technical skills, projects, and development jo
 
 ---
 
-## 📊 GitHub Statistics
+## <img src="https://img.icons8.com/ios-filled/50/9D174D/combo-chart.png" width="24" alt="" /> GitHub Statistics
 
 <div align="center">
 
@@ -158,21 +158,21 @@ A portfolio website showcasing my technical skills, projects, and development jo
 
 ---
 
-## 🐱 Beyond Coding
+## <img src="https://img.icons8.com/ios-filled/50/9D174D/sparkling.png" width="24" alt="" /> Beyond Coding
 
-- 💙 My favourite colour is blue.
-- 🐈 I love cats and their playful personalities.
-- 💡 I enjoy exploring new ideas and technologies.
-- 🧩 I like turning ideas into practical projects.
-- 🌱 I believe mistakes are opportunities to learn and improve.
+- My favourite colour is blue.
+- I love cats and their playful personalities.
+- I enjoy exploring new ideas and technologies.
+- I like turning ideas into practical projects.
+- I believe mistakes are opportunities to learn and improve.
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Stay+curious.;Keep+learning.;Build+something+meaningful." alt="Personal motto" />
 
-### ✨ Learn something new. Build something meaningful.
+### Learn something new. Build something meaningful.
 
-*Thanks for visiting my profile! Let's connect and grow together.*
+*Thanks for visiting my GitHub profile!*
 
 <a href="https://github.com/Praniga16">GitHub</a> ·
 <a href="https://www.linkedin.com/in/praniga-b-935995338/">LinkedIn</a>
