@@ -1,196 +1,178 @@
  <div align="center">
 
-# Hello, I am Praniga!
+# Hi, I'm Praniga B 👋
 
-### Artificial Intelligence & Data Science Engineering Student
+### AI & Data Science Engineering Student | Aspiring AI Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=1000&color=C41620&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Exploring+Intelligent+Applications;Building+Full-Stack+Projects;Learning+and+Growing+Every+Day" alt="Introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=1000&color=C41620&center=true&vCenter=true&width=600&lines=Exploring+AI+%26+Machine+Learning;Building+Intelligent+Applications;Developing+Full-Stack+Projects;Learning+by+Building+and+Experimenting" alt="Introduction" />
 
-<a href="https://github.com/Praniga16"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/praniga-b-935995338/"><img src="https://img.shields.io/badge/LinkedIn-E8A5AB?style=for-the-badge&logo=linkedin&logoColor=5A0106" /></a>
-
-</div>
-
----
-
-## About Me
-
-I'm Praniga, an Artificial Intelligence and Data Science Engineering student who enjoys learning new technologies and building practical applications.
-
-I'm interested in exploring how artificial intelligence can solve real-world problems and how software can make everyday tasks easier.
-
-- Artificial Intelligence and Machine Learning
-- Data Science and Intelligent Applications
-- Python and Java Programming
-- Full-Stack Web Development
-- Problem-Solving and Logical Thinking
-- Learning through hands-on projects
-
-I believe in learning step by step, experimenting with new ideas, and improving with every project I build.
-
----
-
-## My Interests
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-FCE7F3?style=for-the-badge&logo=probot&logoColor=9D174D" />
-<img src="https://img.shields.io/badge/Machine%20Learning-F3E8FF?style=for-the-badge&logo=scikitlearn&logoColor=7E22CE" />
-<img src="https://img.shields.io/badge/Data%20Science-E0E7FF?style=for-the-badge&logo=python&logoColor=3730A3" />
-<img src="https://img.shields.io/badge/Web%20Development-FCE7F3?style=for-the-badge&logo=html5&logoColor=9D174D" />
-<img src="https://img.shields.io/badge/Full--Stack%20Development-F3E8FF?style=for-the-badge&logo=react&logoColor=7E22CE" />
+<a href="https://github.com/Praniga16"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/praniga-b-935995338/"><img src="https://img.shields.io/badge/LinkedIn-E8A5AB?style=for-the-badge&logo=linkedin&logoColor=5A0106" alt="LinkedIn" /></a>
 
 </div>
 
 ---
 
-## Technical Skills
+## 👩‍💻 About Me
 
-### Programming Languages
+I'm an **Artificial Intelligence and Data Science Engineering student** passionate about technology, problem-solving, and building practical applications.
+
+I enjoy exploring how AI can address real-world challenges while developing software that makes everyday tasks simpler and more efficient. My goal is to grow into an **AI Engineer** by combining strong programming fundamentals with hands-on project experience.
+
+- 🤖 Exploring Artificial Intelligence, Machine Learning, and Generative AI
+- 🧠 Practicing Python, Java, and Data Structures & Algorithms
+- 🌐 Building web applications and full-stack projects
+- 🔍 Improving my logical thinking and problem-solving skills
+- 📚 Learning new technologies through experimentation and projects
+
+---
+
+## 💡 Areas of Interest
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c&theme=light" />
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-FCE7F3?style=for-the-badge&logo=probot&logoColor=9D174D" alt="Artificial Intelligence" />
+<img src="https://img.shields.io/badge/Machine%20Learning-F3E8FF?style=for-the-badge&logo=scikitlearn&logoColor=7E22CE" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/Generative%20AI-DBEAFE?style=for-the-badge&logo=openai&logoColor=1D4ED8" alt="Generative AI" />
+<img src="https://img.shields.io/badge/Data%20Science-E0E7FF?style=for-the-badge&logo=python&logoColor=3730A3" alt="Data Science" />
+<img src="https://img.shields.io/badge/Full--Stack%20Development-FCE7F3?style=for-the-badge&logo=react&logoColor=9D174D" alt="Full-Stack Development" />
+
 </div>
 
-### AI, Machine Learning & Data Science
+---
+
+## 🛠️ Technical Skills
+
+**Programming Languages**
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,java,c&theme=light" alt="Python, Java, C" />
+</div>
+
+**AI, Machine Learning & Computer Vision**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=light" alt="TensorFlow and OpenCV" />
 <br/><br/>
-<img src="https://img.shields.io/badge/Machine%20Learning-C41620?style=flat-square" />
-<img src="https://img.shields.io/badge/Deep%20Learning-B794F4?style=flat-square" />
-<img src="https://img.shields.io/badge/Generative%20AI-3B82F6?style=flat-square" />
+<img src="https://img.shields.io/badge/Machine%20Learning-C41620?style=flat-square" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/Deep%20Learning-B794F4?style=flat-square" alt="Deep Learning" />
+<img src="https://img.shields.io/badge/Generative%20AI-3B82F6?style=flat-square" alt="Generative AI" />
 </div>
 
-### Web Development
+**Web Development**
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,django,flask&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,django,flask&theme=light" alt="HTML, CSS, JavaScript, React, Django and Flask" />
 </div>
 
-### Database, Tools & Platforms
+**Databases, Tools & Platforms**
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,vscode&theme=light" alt="PostgreSQL, MySQL, SQLite, Git, GitHub and VS Code" />
 </div>
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### EcoSort AI — Waste Segregation System
+### ♻️ EcoSort AI — AI-Powered Waste Segregation
 
-<a href="https://github.com/Praniga16/Ecosort"><img src="https://img.shields.io/badge/View%20Repository-FCE7F3?style=for-the-badge&logo=github&logoColor=9D174D" /></a>
+<a href="https://github.com/Praniga16/Ecosort"><img src="https://img.shields.io/badge/View%20Project-FCE7F3?style=for-the-badge&logo=github&logoColor=9D174D" alt="View EcoSort AI repository" /></a>
 
-An AI-powered waste classification application designed to identify different types of waste using image classification and transfer learning.
+An image-classification application that identifies waste categories using deep learning and transfer learning to support better waste segregation.
 
-**Features**
 - Classifies cardboard, glass, metal, paper, plastic, and trash
-- Supports image upload and live camera input
-- Displays the predicted waste category and confidence
-- Provides a web interface for waste classification
+- Supports image uploads and live camera input
+- Displays predicted categories and confidence information
+- Provides disposal guidance through a web interface
 
-**Technologies:** Python, TensorFlow, MobileNetV2, CNN, Flask
+**Tech stack:** Python · TensorFlow · MobileNetV2 · CNN · Flask
 
-### SecurePass — Password Manager
+### 🔐 SecurePass — Password Manager
 
-<a href="https://github.com/Praniga16/Secure-vault"><img src="https://img.shields.io/badge/View%20Repository-F3E8FF?style=for-the-badge&logo=github&logoColor=7E22CE" /></a>
+<a href="https://github.com/Praniga16/Secure-vault"><img src="https://img.shields.io/badge/View%20Project-F3E8FF?style=for-the-badge&logo=github&logoColor=7E22CE" alt="View SecurePass repository" /></a>
 
-A password management application designed to help users organize and manage their credentials through a convenient interface.
+A password-management application designed to help users organize and manage their credentials through a convenient interface.
 
-**Features**
 - Password storage and organization
-- Password generator
-- Show and hide password options
+- Password generation
+- Show/hide password functionality
 - Search, filtering, and favorites
 
-**Technologies:** Python, Django, PostgreSQL
+**Tech stack:** Python · Django · PostgreSQL
 
-### Smart To-Do List
+### ✅ Smart To-Do List — Task Management Application
 
-<a href="https://github.com/Praniga16/personal-to-do"><img src="https://img.shields.io/badge/View%20Repository-F3F4F6?style=for-the-badge&logo=github&logoColor=374151" /></a>
+<a href="https://github.com/Praniga16/personal-to-do"><img src="https://img.shields.io/badge/View%20Project-E0E7FF?style=for-the-badge&logo=github&logoColor=3730A3" alt="View Smart To-Do List repository" /></a>
 
-A task-management application that helps users organize daily activities and track their progress.
+A task-management application that helps users organize daily activities, prioritize tasks, and monitor their progress.
 
-**Features**
-- Add and manage tasks
+- Create and manage tasks
 - Set priorities and deadlines
 - Track task completion
 - Organize daily activities efficiently
 
-**Technologies:** HTML, CSS, JavaScript, Python, Flask, SQLite
+**Tech stack:** HTML · CSS · JavaScript · Python · Flask · SQLite
 
-### Personal Portfolio
+### 🌐 Personal Portfolio
 
-A personal portfolio website showcasing my skills, projects, and learning journey.
+A portfolio website showcasing my technical skills, projects, and development journey.
 
-**Focus**
-- Professional personal branding
-- Animated and interactive user interface
-- Responsive design
-- Project showcase
+- Responsive interface and modern design
+- Interactive elements and animations
+- Project showcase and professional profile
 
-**Technologies:** React, JavaScript, CSS
+**Tech stack:** React · JavaScript · CSS · Vite
 
 ---
 
-## Currently Learning
+## 📜 Certifications
+
+- **Oracle Cloud Infrastructure Generative AI Professional** — Oracle, completed October 2025
+
+---
+
+## 📚 Currently Learning
 
 - Machine Learning and Deep Learning
-- Generative AI
+- Generative AI and intelligent applications
 - Data Structures and Algorithms
 - Django and FastAPI
 - Full-Stack Development
-- Building intelligent applications
 
 ---
 
-## My Learning Journey
+## 📊 GitHub Statistics
 
 <div align="center">
 
-**2025** — Explored programming, AI concepts, and cloud-based generative AI learning
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Praniga16&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=C41620&icon_color=3B82F6&text_color=4B5563" alt="GitHub statistics" />
 
-**2026** — Focused on practical projects, web development, and intelligent applications
-
-**Next** — Strengthen my AI engineering skills and build more useful real-world projects
-
-</div>
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Praniga16&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=C41620&icon_color=3B82F6&text_color=4B5563" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praniga16&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=C41620&text_color=4B5563" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praniga16&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=C41620&text_color=4B5563" alt="Most-used languages" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Praniga16&hide_border=true&background=FFFFFF&ring=C41620&fire=3B82F6&currStreakLabel=C41620&sideLabels=6B7280&dates=9CA3AF&currStreakNum=4B5563&sideNums=4B5563" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Praniga16&hide_border=true&background=FFFFFF&ring=C41620&fire=3B82F6&currStreakLabel=C41620&sideLabels=6B7280&dates=9CA3AF&currStreakNum=4B5563&sideNums=4B5563" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
-## A Little About Me
+## 🐱 Beyond Coding
 
-- My favourite colour is **blue** — I love its calm and refreshing feel.
-- I love cats and enjoy their playful personalities.
-- I enjoy exploring new ideas and technologies.
-- I like turning my ideas into practical projects.
-- I believe mistakes are opportunities to learn and improve.
-- I enjoy experimenting, solving problems, and learning something new every day.
+- 💙 My favourite colour is blue.
+- 🐈 I love cats and their playful personalities.
+- 💡 I enjoy exploring new ideas and technologies.
+- 🧩 I like turning ideas into practical projects.
+- 🌱 I believe mistakes are opportunities to learn and improve.
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Stay+curious.;Keep+learning.;Build+something+meaningful." alt="Personal motto" />
 
-### Learn something new. Build something meaningful.
+### ✨ Learn something new. Build something meaningful.
 
-*Thanks for visiting my GitHub profile!*
+*Thanks for visiting my profile! Let's connect and grow together.*
 
 <a href="https://github.com/Praniga16">GitHub</a> ·
 <a href="https://www.linkedin.com/in/praniga-b-935995338/">LinkedIn</a>
