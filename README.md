@@ -152,9 +152,18 @@ A portfolio website showcasing my technical skills, projects, and development jo
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Praniga16&hide_border=true&background=FFFFFF&ring=C41620&fire=3B82F6&currStreakLabel=C41620&sideLabels=6B7280&dates=9CA3AF&currStreakNum=4B5563&sideNums=4B5563" alt="GitHub contribution streak" />
 
+<!-- GitHub Contribution Streak -->
+<div align="center">
+  <a href="https://github.com/Praniga16">
+    <img
+      src="https://streak-stats.demolab.com/?user=Praniga16&theme=default&hide_border=true&background=FFFFFF&ring=C41620&fire=E8A5AB&currStreakLabel=C41620&sideLabels=4B5563&dates=9CA3AF&currStreakNum=4B5563&sideNums=4B5563"
+      alt="Praniga's GitHub Contribution Streak"
+      width="70%"
+    />
+  </a>
 </div>
+
 
 ---
 
